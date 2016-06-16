@@ -1,10 +1,11 @@
-
 # Chloé - your cute microcontroller
 
 Are you looking for a flashy microcontroller as a keychain, but don't want to hang 
 an Arduino? Or are you in need of a tiny microcontroller to put in your next project? 
 Or, want to show off your coding skills but don't want to buy an RGB LED and 
 resistors? Need somthing portable for your next VUSB hack? 
+
+![](https://zippy.gfycat.com/InferiorRaggedKarakul.gif)
 
 Chloé is the tiny microcontroller for the casual. With a smaller formfactor, a 
 WS2812B LED and reduced cost than a Digispark, Chloé is the cutest microcontroller 
