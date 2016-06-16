@@ -5,7 +5,7 @@ an Arduino? Or are you in need of a tiny microcontroller to put in your next pro
 Or, want to show off your coding skills but don't want to buy an RGB LED and 
 resistors? Need somthing portable for your next VUSB hack? 
 
-<img src="https://zippy.gfycat.com/InferiorRaggedKarakul.gif" width="420" />
+<img src="https://zippy.gfycat.com/SlimyAfraidHowlermonkey.gif" width="420" />
 
 Chloé is the tiny microcontroller for the casual. With a smaller formfactor, a 
 WS2812B LED and reduced cost than a Digispark, Chloé is the cutest microcontroller 
