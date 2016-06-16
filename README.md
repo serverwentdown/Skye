@@ -7,19 +7,21 @@ resistors? Need somthing portable for your next VUSB hack?
 
 <img src="https://zippy.gfycat.com/SlimyAfraidHowlermonkey.gif" width="420" />
 
-Chloé is the tiny microcontroller for the casual. With a smaller formfactor, a 
-WS2812B LED and reduced cost than a Digispark, Chloé is the cutest microcontroller 
+Chloé is the tiny microcontroller for the casual. With a smaller form factor than 
+the PicoDuino, a WS2812B LED and a low price, Chloé is the cutest microcontroller 
 you'll ever own. 
 
 Features:
 * Full compatibility with Digispark software and bootloader
 * WS2812B
-* Minimal top surface
+* It's a keychain!
+* Minimalistic top surface
 * Breadboard-friendly headers
 * Smaller than many USB sticks
 
 Specifications: 
 * ATtiny85
+* Sized at 12.7mm by 24.4mm
 * 6 IO pins, same as the Digispark
 * 5V and GND pins (no VIN to keep it small. if you want to power it with a higher 
 voltage, use an external 5V reg)
