@@ -15,7 +15,7 @@ Features:
 * Full compatibility with Digispark software and bootloader
 * WS2812B
 * Minimal top surface
-* ~Breadboard-friendly headers~ (The USB connector would block the pins :( )
+* Breadboard-friendly headers
 * Smaller than many USB sticks
 
 Specifications: 
