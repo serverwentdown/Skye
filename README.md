@@ -17,12 +17,11 @@ Features:
 * Minimalistic top surface
 * Breadboard-friendly headers
 * Smaller than many USB sticks
+* But it's a keychain!
 
 Specifications: 
 * ATtiny85
 * Sized at 12.7mm by 24.4mm
-* 6 IO pins, same as the Digispark
-* 5V and GND pins (no VIN to keep it small. if you want to power it with a higher 
-voltage, use an external 5V reg)
+* 6 IO pins
+* 5V and GND pins (if you want to power it with an external power source, you can connect it with the included 5V regulator)
 * Runs the [micronucleus](https://github.com/micronucleus/) bootloader! 
-
