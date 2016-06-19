@@ -11,7 +11,6 @@ Chloé is the tiny microcontroller for the casual. With a small form factor, a
 WS2812B LED and a low price, Chloé is the cutest microcontroller you'll ever own. 
 
 Features:
-* Full compatibility with Digispark software and bootloader
 * WS2812B
 * It's a keychain!
 * Minimalistic top surface
