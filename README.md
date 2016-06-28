@@ -25,4 +25,4 @@ Specifications:
 * 5V and GND pins (if you want to power it with an external power source, you can connect it with the included 5V regulator)
 * Runs the [micronucleus](https://github.com/micronucleus/) bootloader! 
 
-Hardware designs available under the CERN-OHL, readable in `LICENSE`. Arduino IDE board definitions and example code are available under GPLv3, readable in `software/LICENSE`.
+Hardware designs available under the CERN-OHL, readable in `hardware/LICENSE`. Arduino IDE board definitions and example code are available under GPLv3, readable in `software/LICENSE`.

@@ -1,6 +1,6 @@
-update=Fri Jun 17 01:22:38 2016
+update=2016 June 28, Tuesday 14:55:05
 version=1
-last_client=kicad
+last_client=eeschema
 [pcbnew]
 version=1
 LastNetListRead=
@@ -56,6 +56,8 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+[general]
+version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -66,5 +68,3 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[general]
-version=1
