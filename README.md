@@ -1,4 +1,4 @@
-# Chloé - your cute microcontroller
+# Skye - your cute microcontroller
 
 Are you looking for a flashy microcontroller as a keychain, but don't want to hang 
 an Arduino? Or are you in need of a tiny microcontroller to put in your next project? 
@@ -7,7 +7,7 @@ resistors? Need somthing portable for your next VUSB hack?
 
 <img src="https://zippy.gfycat.com/SlimyAfraidHowlermonkey.gif" width="420" />
 
-Chloé is the tiny microcontroller for the casual. With a small form factor, a 
+Skye is the tiny microcontroller for the casual. With a small form factor, a 
 WS2812B LED and a low price, Chloé is the cutest microcontroller you'll ever own. 
 
 Features:
@@ -24,3 +24,5 @@ Specifications:
 * 6 IO pins
 * 5V and GND pins (if you want to power it with an external power source, you can connect it with the included 5V regulator)
 * Runs the [micronucleus](https://github.com/micronucleus/) bootloader! 
+
+Hardware designs available under the CERN-OHL, readable in `LICENSE`. Arduino IDE board definitions and example code are available under GPLv3, readable in `software/LICENSE`.
