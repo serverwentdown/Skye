@@ -3,7 +3,7 @@
   (general
     (links 23)
     (no_connects 0)
-    (area 154.610999 86.792999 167.969001 111.454001)
+    (area 140.333667 81.841 168.297401 120.218001)
     (thickness 1.6)
     (drawings 33)
     (tracks 115)
@@ -13,6 +13,11 @@
   )
 
   (page A4)
+  (title_block
+    (title Skye)
+    (rev 1.0)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
