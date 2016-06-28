@@ -208,76 +208,6 @@ F 3 "" V 3250 2250 50  0000 C CNN
 	1    3300 2350
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3400 2650 3400 2750
-Wire Wire Line
-	3300 2650 3300 3400
-Wire Wire Line
-	3300 3400 3500 3400
-Wire Wire Line
-	3200 2650 3200 3200
-Wire Wire Line
-	3100 3200 3500 3200
-Wire Wire Line
-	2900 2250 2900 2350
-Wire Wire Line
-	3100 2650 3100 2750
-Wire Wire Line
-	3100 2750 2900 2750
-Wire Wire Line
-	2900 2750 2900 2650
-Wire Wire Line
-	7250 3800 7350 3800
-Wire Wire Line
-	7350 4300 7250 4300
-Wire Wire Line
-	3650 3800 3750 3800
-Wire Wire Line
-	3650 3900 3850 3900
-Wire Wire Line
-	3850 3900 3850 3700
-Wire Wire Line
-	3650 4000 3950 4000
-Wire Wire Line
-	3950 4000 3950 3800
-Wire Wire Line
-	3950 3800 4550 3800
-Wire Wire Line
-	3650 4100 4050 4100
-Wire Wire Line
-	4050 4100 4050 3900
-Wire Wire Line
-	4050 3900 4550 3900
-Wire Wire Line
-	4550 4100 4250 4100
-Wire Wire Line
-	4250 4100 4250 4400
-Wire Wire Line
-	4550 4200 4350 4200
-Wire Wire Line
-	4350 3400 4350 4500
-Wire Wire Line
-	3800 3200 4450 3200
-Wire Wire Line
-	4450 3200 4450 4100
-Connection ~ 4450 4100
-Wire Wire Line
-	3800 3400 4350 3400
-Connection ~ 4350 4200
-Connection ~ 3200 3200
-Wire Wire Line
-	2700 3100 2700 3200
-Wire Wire Line
-	2700 3200 2800 3200
-Wire Wire Line
-	3750 3800 3750 4600
-Wire Wire Line
-	3600 2250 3700 2250
-Wire Wire Line
-	3700 2250 3700 2650
-Wire Wire Line
-	3700 2650 3400 2650
-Connection ~ 3400 2650
 $Comp
 L +5V #PWR09
 U 1 1 5761A570
@@ -311,10 +241,6 @@ F 3 "" H 4100 2550 50  0000 C CNN
 	1    4100 2550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4550 4300 4450 4300
-Wire Wire Line
-	4450 4300 4450 4600
 $Comp
 L CONN_01X04 P1
 U 1 1 57617EC9
@@ -326,16 +252,6 @@ F 3 "" H 3450 3950 50  0000 C CNN
 	1    3450 3950
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	4150 4000 4150 4300
-Wire Wire Line
-	4150 4000 4550 4000
-Wire Wire Line
-	4250 4400 4150 4400
-Wire Wire Line
-	4350 4500 4150 4500
-Wire Wire Line
-	4450 4600 4150 4600
 $Comp
 L WS2812 U1
 U 1 1 5761A15E
@@ -380,6 +296,95 @@ F 3 "" H 4900 2900 50  0000 C CNN
 	1    4900 2900
 	1    0    0    -1  
 $EndComp
+$Comp
+L ZENER D2
+U 1 1 57723ECC
+P 2900 3800
+F 0 "D2" H 2900 3900 50  0000 C CNN
+F 1 "3V6" H 2900 3700 50  0000 C CNN
+F 2 "Diodes_SMD:SOD-323" H 2900 3800 50  0001 C CNN
+F 3 "" H 2900 3800 50  0000 C CNN
+	1    2900 3800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3400 2650 3400 2750
+Wire Wire Line
+	3100 3200 3500 3200
+Wire Wire Line
+	2900 2250 2900 2350
+Wire Wire Line
+	3100 2650 3100 2750
+Wire Wire Line
+	3100 2750 2900 2750
+Wire Wire Line
+	2900 2750 2900 2650
+Wire Wire Line
+	7250 3800 7350 3800
+Wire Wire Line
+	7350 4300 7250 4300
+Wire Wire Line
+	3650 3800 3750 3800
+Wire Wire Line
+	3650 3900 3850 3900
+Wire Wire Line
+	3850 3900 3850 3700
+Wire Wire Line
+	3650 4000 3950 4000
+Wire Wire Line
+	3950 4000 3950 3800
+Wire Wire Line
+	3950 3800 4550 3800
+Wire Wire Line
+	3650 4100 4050 4100
+Wire Wire Line
+	4050 4100 4050 3900
+Wire Wire Line
+	4050 3900 4550 3900
+Wire Wire Line
+	4250 4100 4550 4100
+Wire Wire Line
+	4250 4100 4250 4400
+Wire Wire Line
+	4550 4200 4350 4200
+Wire Wire Line
+	4350 3400 4350 4500
+Wire Wire Line
+	3800 3200 4450 3200
+Wire Wire Line
+	4450 3200 4450 4100
+Connection ~ 4450 4100
+Wire Wire Line
+	3800 3400 4350 3400
+Connection ~ 4350 4200
+Connection ~ 3200 3200
+Wire Wire Line
+	2700 3100 2700 3200
+Wire Wire Line
+	2700 3200 2800 3200
+Wire Wire Line
+	3750 3800 3750 4600
+Wire Wire Line
+	3600 2250 3700 2250
+Wire Wire Line
+	3700 2250 3700 2650
+Wire Wire Line
+	3700 2650 3400 2650
+Connection ~ 3400 2650
+Wire Wire Line
+	4550 4300 4450 4300
+Wire Wire Line
+	4450 4300 4450 4600
+Wire Wire Line
+	4150 4000 4150 4300
+Wire Wire Line
+	4150 4000 4550 4000
+Wire Wire Line
+	4250 4400 4150 4400
+Wire Wire Line
+	4350 4500 4150 4500
+Wire Wire Line
+	4450 4600 4150 4600
 Wire Wire Line
 	5400 2800 5300 2800
 Wire Wire Line
@@ -395,4 +400,46 @@ Wire Wire Line
 Wire Wire Line
 	4550 2900 4550 4000
 Connection ~ 4550 4000
+Connection ~ 3300 3400
+Wire Wire Line
+	3300 3400 3500 3400
+$Comp
+L ZENER D3
+U 1 1 57723E13
+P 3200 3800
+F 0 "D3" H 3200 3900 50  0000 C CNN
+F 1 "3V6" H 3200 3700 50  0000 C CNN
+F 2 "Diodes_SMD:SOD-323" H 3200 3800 50  0001 C CNN
+F 3 "" H 3200 3800 50  0000 C CNN
+	1    3200 3800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3200 2650 3200 3400
+Wire Wire Line
+	3300 2650 3300 3500
+Wire Wire Line
+	3300 3500 3200 3500
+Wire Wire Line
+	3200 3500 3200 3600
+Wire Wire Line
+	3200 3400 2900 3400
+Wire Wire Line
+	2900 3400 2900 3600
+Wire Wire Line
+	3200 4000 2900 4000
+Wire Wire Line
+	3050 4000 3050 4100
+Connection ~ 3050 4000
+$Comp
+L GND #PWR013
+U 1 1 57724AF7
+P 3050 4100
+F 0 "#PWR013" H 3050 3850 50  0001 C CNN
+F 1 "GND" H 3050 3950 50  0000 C CNN
+F 2 "" H 3050 4100 50  0000 C CNN
+F 3 "" H 3050 4100 50  0000 C CNN
+	1    3050 4100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
