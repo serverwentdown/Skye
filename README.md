@@ -5,7 +5,8 @@ an Arduino? Or are you in need of a tiny microcontroller to put in your next pro
 Or, want to show off your coding skills but don't want to buy an RGB LED and 
 resistors? Need somthing portable for your next VUSB hack? 
 
-<img src="https://zippy.gfycat.com/SlimyAfraidHowlermonkey.gif" width="420" />
+![top](hardware/3d-top.png)
+![bottom](hardware/3d-bottom.png)
 
 Skye is the tiny microcontroller for the casual. With a small form factor, a 
 WS2812B LED and a low price, Chloé is the cutest microcontroller you'll ever own. 
