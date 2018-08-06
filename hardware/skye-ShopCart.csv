@@ -1,0 +1,13 @@
+﻿Line No.,Order Code,RoHS Compliant?,Your Part No,Notes,Qty,Manufacturer Part Number,Manufacturer Name,Manufacturer / Description,Availability,Unit Price (excl GST),Line Price (excl GST),Discount Price
+1,2463511,YES,,,40.0,"MM3Z3V6T1G",ON SEMICONDUCTOR,"ON SEMICONDUCTOR  Zener Single Diode, 3.6 V, 300 mW, SOD-323, 5 %, 2 Pins, 150 °C",20072,0.0990,3.96,,
+2,2496923,YES,,,30.0,"0603X225K100CT",WALSIN,"WALSIN  SMD Multilayer Ceramic Capacitor, 0603 [1608 Metric], 2.2 µF, 10 V, ± 10%, X5R",100,0.0510,1.53,,
+3,2447422,Y-EX,,,50.0,"MCWR06X68R0FTL",MULTICOMP,"MULTICOMP  SMD Chip Resistor, 68 ohm, MCWR Series, 50 V, Thick Film, 0603 [1608 Metric], 100 mW",3408,0.0070,0.35,,
+4,2447279,Y-EX,,,30.0,"MCWR06X1501FTL",MULTICOMP,"MULTICOMP  SMD Chip Resistor, 1.5 kohm, MCWR Series, 50 V, Thick Film, 0603 [1608 Metric], 100 mW",27632,0.0070,0.21,,
+5,1455164,YES,,,20.0,"ATTINY85-20SU",MICROCHIP,"MICROCHIP  8 Bit Microcontroller, AVR ATtiny Family ATtiny85 Series Microcontrollers, 20 MHz, 8 KB, 512 Byte",734,1.7700,35.40,,
+6,9556915,YES,,,20.0,"MBR0520LT1G",ON SEMICONDUCTOR,"ON SEMICONDUCTOR  Schottky Rectifier, 20 V, 500 mA, Single, SOD-123, 2 Pins, 385 mV",21520,0.3410,6.82,,
+
+,,,,,,,Sub Total,48.27
+,,,,,,,Goods Total,48.27
+,,,,,,,Delivery,0.00
+,,,,,,,GST,3.38
+,,,,,,,Total,51.65

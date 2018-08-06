@@ -1,3 +1,4 @@
+
 # Skye - your cute microcontroller
 
 Are you looking for a flashy microcontroller as a keychain, but don't want to hang 
@@ -9,7 +10,7 @@ resistors? Need somthing portable for your next VUSB hack?
 ![bottom](hardware/3d-bottom.png)
 
 Skye is the tiny microcontroller for the casual. With a small form factor, a 
-WS2812B LED and a low price, Chloé is the cutest microcontroller you'll ever own. 
+WS2812B LED and a low price, Skye is the cutest microcontroller you'll ever own. 
 
 Features:
 * WS2812B
@@ -26,4 +27,4 @@ Specifications:
 * 5V and GND pins (if you want to power it with an external power source, you can connect it with the included 5V regulator)
 * Runs the [micronucleus](https://github.com/micronucleus/) bootloader! 
 
-Hardware designs available under the CERN-OHL, readable in `hardware/LICENSE`. Arduino IDE board definitions and example code are available under GPLv3, readable in `software/LICENSE`.
+Hardware designs are released CC-BY-SA, credits to Digispark for the circuit design. Arduino IDE board definitions and example code are available under GPLv3, readable in `software/LICENSE`.
